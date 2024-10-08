@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler-project",
+  "version": "1.0.0",
+  "description": "creating a web crawler project",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedMagedC/web-crawler-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedMagedC/web-crawler-project/issues"
+  },
+  "homepage": "https://github.com/AhmedMagedC/web-crawler-project#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
